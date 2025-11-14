@@ -2,4 +2,4 @@
 
 You can download this model for free !
 
-<img src="/CoffreKevImage.png" alt="picure" width="30%"/>
+<img src="/grimoireimg.png" alt="grimoiremodel" width="30%"/>
